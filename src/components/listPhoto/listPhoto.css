@@ -1,0 +1,17 @@
+.entries {
+    display: flex;
+    align-items: center;
+  }
+  
+  .entriesImgContainer {
+    position: relative;
+  }
+  
+  .entriesImg {
+    width: 90px;
+    height: 45px;
+    object-fit: cover;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  
